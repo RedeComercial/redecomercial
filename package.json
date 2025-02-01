@@ -9,5 +9,6 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-scripts": "latest"
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.0"
   }
 }
